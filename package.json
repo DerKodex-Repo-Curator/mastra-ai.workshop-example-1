@@ -1,0 +1,26 @@
+{
+  "name": "feb-12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mastra dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@ai-sdk/openai": "^1.1.10",
+    "@mastra/core": "^0.2.0-alpha.103",
+    "@mastra/evals": "^0.1.0-alpha.45",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.2",
+    "mastra": "^0.2.0-alpha.161",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
